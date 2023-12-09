@@ -1,0 +1,26 @@
+/* Footer css here as well */
+
+footer img {
+    width: 65px;
+    height: 65px;
+    margin: 15px;
+}
+
+footer {
+    text-align: center;
+    padding: 20px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Hover effects here */
+
+.image-link img {
+    transition: all 0.3s ease;
+}
+
+.image-link:hover img {
+    opacity: 0.7;
+}
+
