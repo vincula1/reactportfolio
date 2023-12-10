@@ -1,4 +1,4 @@
-import './About.css';
+import '../styles/About.css';
 
 function About () {
     return (
@@ -16,7 +16,6 @@ function About () {
           <p>
             My learning about algorithms and profound interest in this field have motivated me to pursue further education at UT Austin, where I aim to learn more complex concepts and expand my portfolio. Here, you will find some simple projects I have made along the way. Please explore thoroughly and see what you like!
           </p>
-          {/* Optionally, you can add more paragraphs, images, or other elements here */}
         </section>
       </>
     );
