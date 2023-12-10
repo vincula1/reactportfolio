@@ -1,0 +1,38 @@
+h2 {
+    color: #333;
+    font-size: 24px;
+    text-align: center;
+}
+
+.resume-container {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.resume-container h2 {
+    text-align: center;
+    color: #333;
+}
+
+.skills-section {
+    margin-bottom: 20px;
+}
+
+.skills-section h3 {
+    color: #444;
+    margin-bottom: 10px;
+}
+
+.skills-section ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.skills-section ul li {
+    background-color: #f0f0f0;
+    margin-bottom: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
